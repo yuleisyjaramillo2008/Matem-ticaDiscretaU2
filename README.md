@@ -19,7 +19,7 @@
 
   <!-- 5. DATOS PERSONALES -->
   <p><strong>Nombre:</strong> Yuleisy Cecibel Jaramillo Jaramillo </p>
-  <p><strong>Docente:</strong> [Nombre del Docente Aquí]</p>
+  <p><strong>Docente:</strong> Mario Enrique Cueva Hurtado </p>
   <br>
   <hr width="30%">
   <br>
@@ -28,4 +28,13 @@
   <p>15 de junio de 2026</p>
   <p>Loja - Ecuador</p>
 </div>
+
+
+# ÍNDICE 
+## Contenidos
+## APE (INDIVIDUAL)
+## ACD
+## AA
+## Ejercicios en clase
+
 
